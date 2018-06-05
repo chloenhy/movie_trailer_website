@@ -6,14 +6,6 @@ This is a html website with a list of 4 marvel movies, created for the first pro
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-You will need a
-
-```
-Give examples
-```
-
 ### Cloning
 
 Download the zip file or, clone this project into your local machine.
